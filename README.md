@@ -11,7 +11,7 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) application for man
 
 ## Live Demo
 
-Check out the live demo of the application [here](https://to-do-mern-task-nine.vercel.app/).
+Check out the live demo of the application: https://to-do-mern-task-nine.vercel.app/.
 
 ## Technologies Used
 
@@ -35,5 +35,5 @@ Ensure you have the following installed:
 1. **Clone the repository**
 
 ```sh
-git clone [https://github.com/yourusername/mern-to-do-list.git](https://github.com/MOHDSAMIULLAH/to-do-MERN-Task.git)
+git clone https://github.com/MOHDSAMIULLAH/to-do-MERN-Task.git
 cd mern-to-do-list
