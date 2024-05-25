@@ -28,7 +28,6 @@ Ensure you have the following installed:
 
 - Node.js
 - npm (Node Package Manager)
-- MongoDB
 
 ### Installation
 
@@ -58,7 +57,7 @@ Start the backend server:
   npm run dev
 ```
 
-2. **Setup Frontend**
+3. **Setup Frontend**
 ```sh
 cd frontend
 npm install
